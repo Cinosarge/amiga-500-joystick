@@ -7,7 +7,7 @@ Il file "amiga_joystick.ino" contiene il codice Arduino mentre "Amiga 500 Joysti
 ## Extra
 Sul mio blog si parla in modo più colloquiale del progetto: https://cinosarge.altervista.org/amiga-500-homemade-joystick/
 
-##-----------------------
+## -----------------------
 
 # A500 Joystick - EN
 A Commodore Amiga 500 compatible Joystick made on the Arduino UNO board platform.
