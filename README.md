@@ -1,4 +1,4 @@
-# A500 Joystick
+# 🕹 A500 Joystick
 A Commodore Amiga 500 compatible Joystick made on the Arduino UNO board platform.
 
 ## Contenuti
